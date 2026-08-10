@@ -4,8 +4,6 @@ function Contact() {
       <div className="container contact-container">
         <p className="section-label">Contact</p>
 
-        <h2 className="section-title">Let's Build Something</h2>
-
         <p className="contact-description">
           I'm interested in opportunities involving software development,
           artificial intelligence, full-stack development, and practical
