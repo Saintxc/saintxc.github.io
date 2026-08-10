@@ -1,0 +1,25 @@
+function Education() {
+  return (
+    <section id="education" className="section">
+      <div className="container">
+        <p className="section-label">Education</p>
+
+        <h2 className="section-title">Education</h2>
+
+        <article className="education-card">
+          <div>
+            <h3>Full Sail University</h3>
+
+            <p className="degree">Bachelor of Science in Computer Science</p>
+
+            <p>Concentration in Artificial Intelligence</p>
+          </div>
+
+          <div className="education-date">Expected September 2026</div>
+        </article>
+      </div>
+    </section>
+  );
+}
+
+export default Education;
