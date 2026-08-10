@@ -8,10 +8,6 @@ const skillGroups = [
     skills: ["React", "Vite", "Tailwind CSS", "Responsive Design"],
   },
   {
-    title: "Backend & Data",
-    skills: ["REST APIs", "PostgreSQL", "Docker", "Database Integration"],
-  },
-  {
     title: "Artificial Intelligence",
     skills: [
       "Artificial Intelligence",
