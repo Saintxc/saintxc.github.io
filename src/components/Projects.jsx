@@ -6,14 +6,7 @@ const projects = [
     category: "AI | Security | Web Application",
     description:
       "A web-based Security-as-a-Service platform designed for casino security operations. The application combines modern web development with artificial intelligence technologies to assist with intelligence reporting, case management, and operational workflows.",
-    technologies: [
-      "React",
-      "TypeScript",
-      "Python",
-      "Docker",
-      "PostgreSQL",
-      "AI / NLP",
-    ],
+    technologies: ["React", "TypeScript", "Python", "AI / NLP"],
   },
   {
     title: "Rusty's Tuning",
