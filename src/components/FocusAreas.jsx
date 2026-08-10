@@ -27,8 +27,6 @@ function FocusAreas() {
       <div className="container">
         <p className="section-label">Focus</p>
 
-        <h2 className="section-title">Areas of Focus</h2>
-
         <div className="focus-grid">
           {focusAreas.map((area) => (
             <article className="focus-card" key={area.title}>

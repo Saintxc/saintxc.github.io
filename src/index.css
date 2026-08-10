@@ -6,12 +6,20 @@
 
 html {
   scroll-behavior: smooth;
+  background-color: #080c12;
 }
 
 body {
   min-width: 320px;
   min-height: 100vh;
+  background-color: #080c12;
+  color: #f1f5f9;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+  background-color: #080c12;
 }
 
 a {

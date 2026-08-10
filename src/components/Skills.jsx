@@ -1,7 +1,7 @@
 const skillGroups = [
   {
     title: "Programming",
-    skills: ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
+    skills: ["Python", "JavaScript", "TypeScript", "C++", "HTML", "CSS"],
   },
   {
     title: "Frontend",
@@ -18,7 +18,7 @@ const skillGroups = [
   },
   {
     title: "Tools",
-    skills: ["Git", "GitHub", "VS Code", "PyCharm", "Docker Compose"],
+    skills: ["Git", "GitHub", "VS Code", "PyCharm"],
   },
 ];
 
@@ -26,9 +26,7 @@ function Skills() {
   return (
     <section id="skills" className="section">
       <div className="container">
-        <p className="section-label">Technologies</p>
-
-        <h2 className="section-title">Technical Skills</h2>
+        <p className="section-label">Technical Skills</p>
 
         <div className="skills-grid">
           {skillGroups.map((group) => (

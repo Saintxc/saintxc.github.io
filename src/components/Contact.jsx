@@ -13,19 +13,30 @@ function Contact() {
         </p>
 
         <div className="contact-links">
-          <a href="https://github.com/saintxc" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/saintxc"
+            target="_blank"
+            rel="noreferrer"
+            className="contact-button"
+          >
             GitHub
           </a>
 
           <a
-            href="https://www.linkedin.com/in/zacary-spaulding/"
+            href="YOUR_LINKEDIN_URL"
             target="_blank"
             rel="noreferrer"
+            className="contact-button"
           >
             LinkedIn
           </a>
 
-          <a href="mailto:zacary.spaulding@gmail.com">Email</a>
+          <a
+            href="mailto:YOUR_EMAIL"
+            className="contact-button contact-button-primary"
+          >
+            Email Me
+          </a>
         </div>
       </div>
     </section>

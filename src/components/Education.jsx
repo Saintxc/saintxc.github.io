@@ -4,8 +4,6 @@ function Education() {
       <div className="container">
         <p className="section-label">Education</p>
 
-        <h2 className="section-title">Education</h2>
-
         <div className="education-list">
           <article className="education-card">
             <div>

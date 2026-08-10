@@ -4,8 +4,6 @@ function About() {
       <div className="container">
         <p className="section-label">About</p>
 
-        <h2 className="section-title">About Me</h2>
-
         <div className="about-content">
           <p>
             I am pursuing a Bachelor of Science in Computer Science with a
