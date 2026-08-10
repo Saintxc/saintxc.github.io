@@ -6,8 +6,6 @@ function Hero() {
 
         <h1>Zacary Spaulding</h1>
 
-        <h2>Building intelligent software for real-world problems.</h2>
-
         <p className="hero-description">
           Computer Science student specializing in Artificial Intelligence,
           software development, and modern application development.
