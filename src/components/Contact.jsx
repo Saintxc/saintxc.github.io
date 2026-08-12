@@ -21,7 +21,7 @@ function Contact() {
           </a>
 
           <a
-            href="YOUR_LINKEDIN_URL"
+            href="https://www.linkedin.com/in/zacary-spaulding/"
             target="_blank"
             rel="noreferrer"
             className="contact-button"
@@ -30,7 +30,7 @@ function Contact() {
           </a>
 
           <a
-            href="mailto:YOUR_EMAIL"
+            href="mailto:zacary.spaulding@gmail.com"
             className="contact-button contact-button-primary"
           >
             Email Me
